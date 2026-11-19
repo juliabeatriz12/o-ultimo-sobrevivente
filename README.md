@@ -1,3 +1,4 @@
+![Rafael - O Último Sobrevivente](rafael_do_jogo.png)
 # 🏝️ O ÚLTIMO SOBREVIVENTE
 
 ### Dez dias. Uma ilha. Uma chance.
