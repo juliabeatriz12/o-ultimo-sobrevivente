@@ -1,4 +1,4 @@
-![Rafael na ilha](rafael.jpg)
+<img src="rafael.jpg" width="180">
 # 🏝️ O ÚLTIMO SOBREVIVENTE
 
 ### Dez dias. Uma ilha. Uma chance.
