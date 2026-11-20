@@ -1,4 +1,6 @@
-<img src="rafael.jpg" width="180">
+<p align="center">
+  <img src="rafael.jpg" width="180">
+</p>
 # 🏝️ O ÚLTIMO SOBREVIVENTE
 
 ### Dez dias. Uma ilha. Uma chance.
